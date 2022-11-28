@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyanshuSheth
 - 👀 I’m interested in deep learning, especially natural language processing!
-- 💞️ I’m looking to collaborate on research projects in deep learning/NLP. Hit me up if you have some ideas!
+- 💞️ I’m looking to collaborate on research projects in deep learning/NLP. Let's work together!
 - 📫 Mail me at shethdivyanshu2000@gmail.com, or DM me on Twitter: https://twitter.com/Divyanshu_Sheth!
 
 <!---
