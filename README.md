@@ -1,6 +1,6 @@
-- 👋 Hi! I’m Divyanshu, a final-year Industrial Engineering + EE + CS undergraduate at IIT Kharagpur.
-- 👀 My interests lie in deep learning, especially natural language processing. I've recently also begun exploring computer vision and reinforcement learning using deep neural networks
-- 🤝 I’m looking to collaborate on research projects in deep learning. Let me know if you want to collaborate!
+- 👋 Hi! I’m Divyanshu, a final-year Industrial Electronics + CS undergraduate at IIT Kharagpur.
+- 👀 My interests lie in deep learning, especially natural language processing. I've recently also been exploring speech processing, computer vision and reinforcement learning.
+- 🤝 I’m looking to work on research projects in deep learning. Let me know if you want to collaborate!
 - 📫 Mail me at shethdivyanshu2000@gmail.com, or DM me on Twitter: https://twitter.com/Divyanshu_Sheth
 
 <!---
